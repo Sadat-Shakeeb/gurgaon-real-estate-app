@@ -1,0 +1,12 @@
+streamlit
+scikit-learn==1.6.1
+pandas
+numpy
+xgboost
+category-encoders
+scipy
+joblib
+matplotlib
+seaborn
+plotly
+wordcloud
