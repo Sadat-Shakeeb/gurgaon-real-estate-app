@@ -21,25 +21,25 @@ The project covers the **complete end-to-end data science lifecycle** — from d
 
 Real-Estate-App/
 │
-├── app.py # Main entry point (Home Page)
+├── app.py                     # Main entry point (Home Page)
 │
 ├── pages/
-│ ├── 1_Price_Predictor.py # Price prediction module
-│ ├── 2_Analytics.py # Market analytics & visualizations
-│ └── 3_Recommend_Appartments.py # Recommendation system
+│   ├── 1_Price_Predictor.py   # Price prediction module
+│   ├── 2_Analytics.py         # Market analytics & visualizations
+│   └── 3_Recommend_Appartments.py  # Recommendation system
 │
 ├── datasets/
-│ ├── data_viz1.csv
-│ ├── feature_text.pkl
-│ ├── location_distance.pkl
-│ ├── cosine_sim1.pkl
-│ ├── cosine_sim2.pkl
-│ └── cosine_sim3.pkl
+│   ├── data_viz1.csv
+│   ├── feature_text.pkl
+│   ├── location_distance.pkl
+│   ├── cosine_sim1.pkl
+│   ├── cosine_sim2.pkl
+│   └── cosine_sim3.pkl
 │
-├── df.pkl # Processed dataset
-├── pipeline.pkl # Trained ML pipeline
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── df.pkl                     # Processed dataset
+├── pipeline.pkl               # Trained ML pipeline
+├── requirements.txt           # Project dependencies
+└── README.md                  # Project documentation
 
 ---
 
