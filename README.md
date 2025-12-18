@@ -16,7 +16,7 @@ The application provides:
 The project covers the **complete end-to-end data science lifecycle** — from data collection and preprocessing to model building, evaluation, and deployment using **Streamlit Cloud**.
 
 ---
-
+```
 ## 🗂️ Project Structure
 
 Real-Estate-App/
@@ -41,6 +41,7 @@ Real-Estate-App/
 ├── requirements.txt           # Project dependencies
 └── README.md                  # Project documentation
 
+```
 ---
 
 ## 📥 Data Collection
