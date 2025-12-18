@@ -21,7 +21,8 @@ The project covers the **complete end-to-end data science lifecycle** — from d
 
 Real-Estate-App/
 │
-├── Home.py # Main entry point (Home Page)
+├── app.py # Main entry point (Home Page)
+│
 ├── pages/
 │ ├── 1_Price_Predictor.py # Price prediction module
 │ ├── 2_Analytics.py # Market analytics & visualizations
@@ -37,9 +38,8 @@ Real-Estate-App/
 │
 ├── df.pkl # Processed dataset
 ├── pipeline.pkl # Trained ML pipeline
-├── requirements.txt
-└── README.md
-
+├── requirements.txt # Project dependencies
+└── README.md # Project documentation
 
 ---
 
