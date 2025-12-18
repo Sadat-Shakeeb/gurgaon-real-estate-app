@@ -43,6 +43,14 @@ Real-Estate-App/
 
 ```
 ---
+## 🎥 Application Demo (Silent Walkthrough)
+
+A short screen-recorded walkthrough demonstrating the core features of the application, Download and watch a short screen-recorded demo of the application. 
+
+👉 [View Demo Video](https://github.com/Sadat-Shakeeb/gurgaon-real-estate-app/releases/tag/v1.0)
+
+---
+---
 
 ## 📥 Data Collection
 
