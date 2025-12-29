@@ -247,6 +247,7 @@ This project demonstrates:
 - Effective use of **visual analytics**
 - Deployment of a **real-world, user-facing application**
 
+
 It showcases an end-to-end workflow from raw data to a fully deployed analytics and prediction platform.
 
 ---
