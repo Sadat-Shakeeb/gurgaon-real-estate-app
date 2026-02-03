@@ -2,7 +2,7 @@
 
 🔗 **Live App:** https://gurgaon-real-estate-app.streamlit.app  
 
----
+----
 
 ## 📌 Capstone Project Overview
 
